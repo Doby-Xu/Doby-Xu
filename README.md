@@ -5,6 +5,8 @@
 </div>
 
 > 🎯 **Open to full-time opportunities.** I am graduating in 2027 and actively looking for full-time AI research and engineering roles in generative AI, multimodal systems, and related areas.
+>
+> **秋招进行时 · 期待邮件联系**
 
 # Hengyuan Xu
 
@@ -26,6 +28,6 @@ Master's student at Fudan University, FVL Lab. Research intern at Tencent Hunyua
 
 ## 🛠 Open Source
 
-| [**WithAnyone**](https://github.com/Doby-Xu/WithAnyone) | [**PixelSmile**](https://ammmob.github.io/PixelSmile/) | [**ST**](https://github.com/Doby-Xu/ST) |
-| :---: | :---: | :---: |
-| <image src="./assets/withanyone.gif" /> | <image src="./assets/pixelsmile.gif" /> | <image src="./assets/framework.png" /> |
+| [**WithAnyone**](https://github.com/Doby-Xu/WithAnyone) ![GitHub Repo stars](https://img.shields.io/github/stars/Doby-Xu/WithAnyone?style=social) | [**PixelSmile**](https://ammmob.github.io/PixelSmile/) ![GitHub Repo stars](https://img.shields.io/github/stars/Ammmob/PixelSmile?style=social) |
+| :---: | :---: |
+| <image src="./assets/withanyone.gif" /> | <image src="./assets/pixelsmile.gif" /> |
