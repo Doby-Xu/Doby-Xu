@@ -48,35 +48,6 @@ My work spans generative AI, mathematical properties of Transformers, privacy-pr
 
 ## 🛠 Open Source
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <b>WithAnyone</b><br>
-      <sub>ID-consistent image generation with a 6B FLUX-based IPA model. ICLR 2026.</sub><br><br>
-      <a href="https://github.com/Doby-Xu/WithAnyone">Code</a> ·
-      <a href="https://arxiv.org/abs/2510.14975">arXiv</a> ·
-      <a href="https://huggingface.co/spaces/WithAnyone/WithAnyone_demo">Demo</a><br><br>
-      <a href="https://github.com/Doby-Xu/WithAnyone"><img src="https://img.shields.io/github/stars/Doby-Xu/WithAnyone?style=social" alt="GitHub stars"></a>
-    </td>
-    <td width="25%" valign="top">
-      <b>PixelSmile</b><br>
-      <sub>Fine-grained facial expression editing. Co-first author. ECCV 2026.</sub><br><br>
-      <a href="https://ammmob.github.io/PixelSmile/">Project</a> ·
-      <a href="https://arxiv.org/abs/2603.25728">arXiv</a><br><br>
-      <a href="https://github.com/Ammmob/PixelSmile"><img src="https://img.shields.io/github/stars/Ammmob/PixelSmile?style=social" alt="GitHub stars"></a>
-    </td>
-    <td width="25%" valign="top">
-      <b>ST</b><br>
-      <sub>Permutation Equivariance of Transformers. CVPR 2024.</sub><br><br>
-      <a href="https://github.com/Doby-Xu/ST">Code</a> ·
-      <a href="https://arxiv.org/abs/2304.07735">arXiv</a><br><br>
-      <a href="https://github.com/Doby-Xu/ST"><img src="https://img.shields.io/github/stars/Doby-Xu/ST?style=social" alt="GitHub stars"></a>
-    </td>
-    <td width="25%" valign="top">
-      <b>AI Safety Report</b><br>
-      <sub>Frontier model safety evaluation. Contributor.</sub><br><br>
-      <a href="https://github.com/XSafeAI/AI-safety-report">Code</a><br><br>
-      <a href="https://github.com/XSafeAI/AI-safety-report"><img src="https://img.shields.io/github/stars/XSafeAI/AI-safety-report?style=social" alt="GitHub stars"></a>
-    </td>
-  </tr>
-</table>
+| [**WithAnyone**](https://github.com/Doby-Xu/WithAnyone) | [**PixelSmile**](https://ammmob.github.io/PixelSmile/) | [**ST**](https://github.com/Doby-Xu/ST) |
+| :---: | :---: | :---: |
+| <image src="./assets/withanyone.gif" /> | <image src="./assets/pixelsmile.gif" /> | <image src="./assets/framework.png" /> |
